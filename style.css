@@ -1,6 +1,6 @@
 /* Genel ayarlar */
 body {
-  font-family: 'Traditional Arabic', serif;
+  font-family: 'Scheherazade New', serif;
   background-color: #F7F7F7;
   display: flex;
   justify-content: center;
@@ -27,7 +27,7 @@ body {
   color: #000000;
   cursor: pointer;
   transition: all 0.4s ease;
-  font-family: 'Traditional Arabic', serif;
+  font-family: 'Scheherazade New', serif;
 }
 
 /* Metin rengi geçişi: füme tonlarında */
